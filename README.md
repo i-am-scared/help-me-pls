@@ -1,2 +1,2 @@
-# help-me-pls-c-homework-
+# help-me-pls
 c++ homeworks
